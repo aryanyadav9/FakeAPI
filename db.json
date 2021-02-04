@@ -24,6 +24,30 @@
         "Payment": "COD",
         "PickupFrom": "Warehouse",
         "title": "Order Number 2"
+      },
+      {
+        "id": 2,
+        "Cname": "Rajesh Puri",
+        "Caddress": "1111, Damji Shamji, Kanjurmarg",
+        "Ddate": "January 15, 2021 at 12:00:00 AM UTC+5:30",
+        "Cphone": 1234567890,
+        "Odate": "January 16, 2021 at 12:00:00 AM UTC+5:30",
+        "Ostatus": "Pending",
+        "Payment": "COD",
+        "PickupFrom": "Warehouse",
+        "title": "Order Number 2"
+      },
+      {
+        "id": 2,
+        "Cname": "Rajesh Puri",
+        "Caddress": "1111, Damji Shamji, Kanjurmarg",
+        "Ddate": "January 15, 2021 at 12:00:00 AM UTC+5:30",
+        "Cphone": 1234567890,
+        "Odate": "January 16, 2021 at 12:00:00 AM UTC+5:30",
+        "Ostatus": "Pending",
+        "Payment": "COD",
+        "PickupFrom": "Warehouse",
+        "title": "Order Number 2"
       }
     ]
   }
